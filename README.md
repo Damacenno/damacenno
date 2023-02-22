@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Damacenno&bg_color=000000&color=ffffff&line=000766&point=ff0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Damacenno&bg_color=181b26&color=ffffff&line=558b63&point=775555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Damacenno/damacenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
